@@ -11,6 +11,7 @@ import {
 } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import mockData from "../mockData";
+import {upperCase} from "../helpers/upperCase"
 
 
 const useStyles = makeStyles({
@@ -29,8 +30,7 @@ const useStyles = makeStyles({
   },
 });
 
-const upperCase = name =>
-  name.charAt(0).toUpperCase() + name.slice(1);
+
 
 
 
