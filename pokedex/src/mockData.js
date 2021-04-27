@@ -1,4 +1,4 @@
-export default {
+const mockData = {
 
   "1": {
     name: "bulbasaur",
@@ -147,3 +147,5 @@ export default {
     },
   },
 };
+
+export default mockData;
