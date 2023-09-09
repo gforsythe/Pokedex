@@ -4,8 +4,8 @@ A Web app to hone in my Material UI skills with a search bar feature.
 
 ## Final Product
 
-!["Main-Image]()
-!["Search-Feature"]()
+!["Main-Image](https://github.com/gforsythe/Pokedex/blob/master/pokedex/pictures/Main.png?raw=true)
+!["Search-Feature"](https://github.com/gforsythe/Pokedex/blob/master/pokedex/pictures/features.png?raw=true)
 
 
 ## Dependencies
